@@ -1,1 +1,12 @@
-mcp.json
+{
+    "name": "local-github-mcp",
+    "version": "0.1.0",
+    "description": "Local GitHub MCP providing repo operations",
+    "modes": [
+        "completion",
+        "chat"
+    ],
+    "schemaVersion": "1.0.0",
+    "manifestCommands": [],
+    "url": "http://localhost:8000/mcp"
+}
